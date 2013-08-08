@@ -1,0 +1,27 @@
+{
+  "name": "dogfooding",
+  "version": "0.0.1",
+  "private": false,
+  "main": "index.coffee",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ainsleychong/dogfooding.git"
+  },
+  "dependencies": {
+    "factual-api": "latest",
+    "js-yaml": "latest",
+    "request": "latest"
+  },
+  "devDependencies": {
+    "nock": "latest",
+    "mocha": "1.8.x",
+    "chai": "1.5.x",
+    "sinon": "latest",
+    "grunt": "0.4.x",
+    "grunt-contrib-coffee": "latest",
+    "grunt-contrib-watch": "0.3.x",
+    "grunt-contrib-jshint": "0.3.x",
+    "grunt-cafe-mocha": "0.1.x",
+    "coffee-script": "latest"
+  }
+}
